@@ -9,4 +9,4 @@ Página Inicial
 
 Página inicial
 
-![alt text](https://github.com/Gabriel-Castilho/bookflix/blob/master/img/index1.png)
+![alt text](https://github.com/Gabriel-Castilho/bookflix/blob/master/img/index2.png)
